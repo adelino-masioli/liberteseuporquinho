@@ -39,8 +39,72 @@
     <link rel="stylesheet" href="assets/fonts/font/light/specimen_files/specimen_stylesheet.css" type="text/css" charset="utf-8" />
 	  <link rel="stylesheet" href="assets/fonts/font/light/stylesheet.css" type="text/css" charset="utf-8" />
 
+
+<!-- Global site tag (gtag.js) - Google AdWords: 847306960 -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-847306960"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'AW-847306960');
+
+</script>
+
+<!-- Event snippet for Poupança 2018 conversion page -->
+
+<script>
+
+gtag('event', 'conversion', {'send_to': 'AW-847306960/gnBFCJXJ0YEBENDBg5QD'});
+
+</script>
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1914773238802052');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=1914773238802052&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- End Facebook Pixel Code -->
+
   </head>
   <body id="wrapper-site">
+
+  
 
     <!-- Header Area wrapper Starts -->
     <header id="header-wrap">
@@ -295,7 +359,7 @@ em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
             0800 725 0996<br/>
             Atendimento:<br/>
             seg. a sex. – das 8h às 20h<br/>
-            www.ouvidoriasicoob.com.br<br/>
+            <a href="http://www.ouvidoriasicoob.com.br/" target="_blank">www.ouvidoriasicoob.com.br</a><br/>
           </div>   
           
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 wow fadeInUp text-footer padding-left" data-wow-delay="0.8s">
@@ -305,7 +369,9 @@ em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
 
           <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 wow fadeInUp text-footer no-border padding-left" data-wow-delay="0.12s">
             <strong>Demais serviços <br/>de atendimento:</strong><br/>
-            www.sicoob.com.br
+            <a href="http://www.sicoob.com.br/" target="_blank">www.sicoob.com.br</a><br/>
+            <a class="lk-social" style="margin-right:10px;" href="https://www.facebook.com/sicooboficial/" target="_blank"><img src="assets/img/face.png" alt="Sicoob"></a> 
+            <a class="lk-social" href="https://www.facebook.com/sicooboficial/" target="_blank"><img src="assets/img/insta.png" alt="Sicoob"> sicooboficial</a>
           </div> 
         </div>
       </div>
@@ -347,5 +413,35 @@ em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
     <script src="assets/js/nivo-lightbox.js"></script>
     <script src="assets/js/main.js"></script>
       
+
+<script type="text/javascript">
+
+/* <![CDATA[ */
+
+var google_conversion_id = 847306960;
+
+var google_custom_params = window.google_tag_params;
+
+var google_remarketing_only = true;
+
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+
+</script>
+
+<noscript>
+
+<div style="display:inline;">
+
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/847306960/?guid=ON&amp;script=0"/>
+
+</div>
+
+</noscript>
+
+
   </body>
 </html>

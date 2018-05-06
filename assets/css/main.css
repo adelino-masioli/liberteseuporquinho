@@ -1733,6 +1733,16 @@ a.back-to-top:hover, a.back-to-top:focus {
 .footer-area {
   background: #69a544;
 }
+.lk-social{
+  display: inline-block;
+  margin-top: 20px;
+  line-height: 0px!important;
+}
+.lk-social img{
+  position: relative;
+  top: 5px;
+  margin-right: 6px;
+}
 
 .footer-area h4 {
   font-size: 40px;
@@ -1746,6 +1756,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .footer-area h4 strong{
   font-family: 'nutmeg_boldbold'!important;
 }
+.text-footer a{color: #fff;}
 .text-footer{
   color: #fff;
   margin-top: 100px;
