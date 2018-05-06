@@ -78,7 +78,7 @@
       });
 
       setTimeout(function(){
-        $('.back-to-top').click();
+        //$('.back-to-top').click();
       }, 100);
 
   });      

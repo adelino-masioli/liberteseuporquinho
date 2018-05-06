@@ -115,13 +115,17 @@
       <div id="main-slide" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide1.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgdk" src="assets/img/slider/slide1.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgm" src="assets/img/slider/slide1m.jpg" alt="Sicoob">
             <div class="carousel-caption">
              <div class="row">
               <p class="fadeInUp wow col-flex title-slider" data-wow-delay=".6s">Bem-vindo ao time do porquinho. </p>
      
-              <p class="fadeInUp wow col-flex text-slider" data-wow-delay=".6s">Quando você abre uma Poupança Sicoob, seu dinheiro entra para o time que está ganhando e rendendo.
+              <p class="fadeInUp wow col-flex text-slider dk" data-wow-delay=".6s">Quando você abre uma Poupança Sicoob, seu dinheiro entra para o time que está ganhando e rendendo.
                 E sem o peso das moedas, seu porquinho fica livre para dar um show de bola. Escolha um investimento prático, com a garantia da maior cooperativa financeira do país.</p>
+              
+              <p class="fadeInUp wow col-flex text-slider mb" data-wow-delay=".6s">Quando você abre uma poupança Sicoob, seu dinheiro entra para o time que está ganhando e rendendo.</p>
+
              </div>
             </div>
           </div>
@@ -137,20 +141,22 @@
     <div id="main-slide" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide2.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgdk" src="assets/img/slider/slide2.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgm" src="assets/img/slider/slide2m.jpg" alt="Sicoob">
             <div class="carousel-caption carousel-caption-game">
              <div class="row">
-              <p class="fadeInUp wow col-md-6 col-lg-4 title-slider-game" data-wow-delay=".6s">Game do Porquinho</p>
-              <p class="fadeInUp wow col-md-6 col-lg-6 title-slider-game" data-wow-delay=".8s"></p>
-              <p class="fadeInUp wow col-md-6 col-lg-4 subtitle-slider-game" data-wow-delay=".10s">Como vai seu domínio com a bola?</p>
-              <p class="fadeInUp wow col-md-6 col-lg-6 title-slider-game" data-wow-delay=".11s"></p>
-              <p class="fadeInUp wow col-md-6 col-lg-4 text-slider-game" data-wow-delay=".12s">É nas quatro linhas do <br/>seu celular, tablet ou <br/>computador que você vai <br/>mostrar sua habilidade. <br/>Venha jogar com o porquinho.</p>
-              <p class="fadeInUp wow col-md-6 col-lg-6 title-slider-game" data-wow-delay=".13s"></p>
-              <p class="fadeInUp wow col-md-6 col-lg-4 title-slider-game" data-wow-delay=".14s">
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-game" data-wow-delay=".6s">Game do Porquinho</p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-game" data-wow-delay=".8s"></p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 subtitle-slider-game" data-wow-delay=".10s">Como vai seu domínio com a bola?</p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-game" data-wow-delay=".11s"></p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 text-slider-game dk" data-wow-delay=".12s">É nas quatro linhas do <br/>seu celular, tablet ou <br/>computador que você vai <br/>mostrar sua habilidade. <br/>Venha jogar com o porquinho.</p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 text-slider-game mb" data-wow-delay=".12s">É nas quatro linhas do seu celular, tablet ou computador que você vai mostrar sua habilidade Venha jogar com o porquinho.</p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-game" data-wow-delay=".13s"></p>
+              <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-game btn-download-game" data-wow-delay=".14s">
                 <span class="btn-download"><img class="img-download" src="assets/img/btn_download.png" alt="Baixe o game">Baixe o game</span>
               </p>
-              <p class="fadeInUp wow col-md-6 col-lg-6 title-slider-game" data-wow-delay=".15s"></p>
-              <p class="fadeInUp wow col-xs-6 col-md-6 col-lg-4" data-wow-delay=".16s">
+              <p class="fadeInUp wow col-xs-6 col-md-6 col-lg-6 title-slider-game" data-wow-delay=".15s"></p>
+              <p class="fadeInUp wow col-xs-6 col-md-6 col-lg-6" data-wow-delay=".16s">
                 <a href="#" target="_blank"><img class="img-download-lk" src="assets/img/btn_google.png" alt="Baixe o game"></a>
                 <a href="#" target="_blank"><img class="img-download-lk" src="assets/img/btn_apple.png" alt="Baixe o game"></a>
               </p>
@@ -168,13 +174,14 @@
     <div id="main-slide" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide3.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgdk" src="assets/img/slider/slide3.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgm" src="assets/img/slider/slide3m.jpg" alt="Sicoob">
             <div class="carousel-caption carousel-caption-game">
              <div class="row">
-               <p class="fadeInUp wow col-md-5 offset-1 title-slider-know" data-wow-delay=".8s"></p>
-              <p class="fadeInUp wow col-md-4 offset-1 title-slider-know" data-wow-delay=".6s">Aprenda a poupar com o porquinho.</p>
-              <p class="fadeInUp wow col-md-5 offset-1 title-slider-know" data-wow-delay=".11s"></p>
-              <p class="fadeInUp wow col-md-5 offset-1 text-slider-know" data-wow-delay=".12s">
+               <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-5 col-lg-5 offset-md-1 offset-lg-1 title-slider-know" data-wow-delay=".8s"></p>
+              <p class="fadeInUp wow  col-xs-12 offset-xs-6  col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 title-slider-know" data-wow-delay=".6s">Aprenda a poupar com o porquinho.</p>
+              <p class="fadeInUp wow col-xs-12 col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 title-slider-know" data-wow-delay=".11s"></p>
+              <p class="fadeInUp wow col-xs-6 offset-xs-6  col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 text-slider-know dk2" data-wow-delay=".12s">
                   Colocar uma moeda no porquinho é <br/>
                   um gesto de economia. Mas isso não <br/>
                   é tudo. Tão importante quanto guardar <br/>
@@ -186,36 +193,41 @@
                   Poupança Sicoob seu porquinho <br/>
                   ganha vida nova e suas economias <br/>vida longa.
               </p>
-              <p class="fadeInUp wow col-md-5 offset-1 text-slider-know" data-wow-delay=".13s"></p>
-              <p class="fadeInUp wow col-md-5 offset-1 text-slider-know-sub" data-wow-delay=".13s">*Para pessoas físicas e jurídicas sem fins lucrativos.</p>
+              <p class="fadeInUp wow col-xs-6 offset-xs-6  col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 text-slider-know mb2" data-wow-delay=".12s">                
+Tão importante quanto guardar é fazer o seu dinheiro crescer. Depois de encher o porquinho, deposite na Poupança Sicoob.
+              </p>
+              <p class="fadeInUp wow col-xs-6 col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 text-slider-know tknow" data-wow-delay=".13s"></p>
+              <p class="fadeInUp wow col-xs-6 col-sm-5 col-md-5 col-lg-5 offset-md-1 offset-lg-1 text-slider-know-sub dk" data-wow-delay=".13s">*Para pessoas físicas e jurídicas sem fins lucrativos.</p>
              </div>
             </div>
           </div>
         </div>
       </div>
       <!-- Main Carousel Section End -->
+      
 
        <!-- Main Carousel Section Start -->
        <div id="midia"></div>
     <div id="main-slide" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="assets/img/slider/slide4.jpg" alt="Sicoob">
+          <div class="carousel-item active downlo">
+            <img class="d-block w-100 imgdk" src="assets/img/slider/slide4.jpg" alt="Sicoob">
+            <img class="d-block w-100 imgm" src="assets/img/slider/slide4m.jpg" alt="Sicoob">
             <div class="carousel-caption carousel-caption-game">
              <div class="row">
                <p class="fadeInUp wow col-md-4 title-slider-know" data-wow-delay=".8s"></p>
-              <p class="fadeInUp wow col-sm-7 col-md-5 col-lg-5 offset-1 title-slider-know color-black title-midia" data-wow-delay=".6s">
+              <p class="fadeInUp wow col-xs-8 col-sm-8 col-md-7 col-lg-5 offset-1 title-slider-know color-black title-midia" data-wow-delay=".6s">
                   Nas telas,<br/>
                   nas rádios<br/>
                   e nas revistas.</p>
               <p class="fadeInUp wow col-md-4 title-slider-know" data-wow-delay=".11s"></p>
-              <p class="fadeInUp wow col-sm-7 col-md-5 col-lg-5 offset-1 text-slider-know color-black" data-wow-delay=".12s">
+              <p class="fadeInUp wow col-xs-8 col-sm-8 col-md-7 col-lg-5 offset-1 text-slider-know color-black text-midia" data-wow-delay=".12s">
                   O porquinho virou atração<br/>
 em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
 é um sucesso.
               </p>
               <p class="fadeInUp wow col-md-4  text-slider-know" data-wow-delay=".13s"></p>
-              <p class="fadeInUp wow col-sm-7 col-md-5 col-lg-5 offset-1 text-slider-know" data-wow-delay=".13s">
+              <p class="fadeInUp wow col-xs-8 col-sm-7 col-md-7 col-lg-5 offset-1 text-slider-know text-midia" data-wow-delay=".13s">
                   <a class="lk-media fadeInUp wow" data-wow-delay=".13s" href="#" target="_blank"><img class="img-midia-lk" src="assets/img/btn_tv.png" alt="Porquinho nas telas"></a>
                   <a class="lk-media fadeInUp wow" data-wow-delay=".16s" href="#" target="_blank"><img class="img-midia-lk" src="assets/img/btn_radio.png" alt="Porquinho nas rádios"></a>
                   <a class="lk-media fadeInUp wow" data-wow-delay=".19s" href="#" target="_blank"><img class="img-midia-lk" src="assets/img/btn_revista.png" alt="Porquinho nas revistas"></a>
@@ -233,15 +245,17 @@ em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
       <div id="main-slide" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="assets/img/slider/slide5.jpg" alt="Sicoob">
-              <div class="carousel-caption">
+              <img class="d-block w-100 imgdk" src="assets/img/slider/slide5.jpg" alt="Sicoob">
+              <img class="d-block w-100 imgm" src="assets/img/slider/slide5m.jpg" alt="Sicoob">
+              <div class="carousel-caption time-vencedor">
                <div class="row">
-                <p class="fadeInUp wow col-sm-6 col-md-6 col-lg-5 offset-lg-1 title-slider-win" data-wow-delay=".6s">Um time<br/>
-                    vencedor não<br/>
-                    descuida<br/>
+                <p class="fadeInUp wow  col-xs-6 col-sm-6 col-md-6 col-lg-6 title-slider-know title-slider-win" data-wow-delay=".6s">
+                    Um time 
+                    vencedor não
+                    descuida
                     da defesa.</p>
        
-                <p class="fadeInUp wow col-sm-6 col-md-6 col-lg-5 offset-lg-1 text-slider text-slider-win" data-wow-delay=".6s">
+                <p class="fadeInUp wow col-xs-6 col-sm-6 col-md-5 col-lg-6  text-slider-know txt-win dk3" data-wow-delay=".6s">
                     Muitas vezes, o dinheiro depositado na <br/>
                     poupança representa a economia de <br/>
                     uma vida toda. Por isso, é importante <br/>
@@ -249,6 +263,9 @@ em várias mídias. Dá para dizer <br/>que nesse campo ele também<br/>
                     tem a proteção da maior cooperativa<br/>
                     de crédito do Brasil. Quem tem a melhor <br/>
                     defesa garante o melhor resultado.
+                </p>
+                <p class="fadeInUp wow col-xs-6 col-sm-5 col-md-6 col-lg-6  text-slider-know txt-win mb3" data-wow-delay=".6s">
+                A Poupança Sicoob conta com a proteção da maior instituição financeira cooperativa do Brasil.
                 </p>
                </div>
               </div>
